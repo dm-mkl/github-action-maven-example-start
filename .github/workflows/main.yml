@@ -1,7 +1,7 @@
 name: Test Maven CI/CD
 
 on:
- push:
+  push:
     branches: [ master ]
   pull_request:
     branches: [ master ]
